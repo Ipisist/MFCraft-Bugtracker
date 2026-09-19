@@ -1,6 +1,6 @@
 ---
 name: New Bug
-about: It's empty here.
+about: Found a bug? Let's fix it!
 title: "[Bug] A new Bug..."
 labels: bug
 assignees: ''
