@@ -1,7 +1,7 @@
 ---
 name: New Request
 about: Do you want to suggest a new mod or feature?
-title: "[REQ]"
+title: "[REQ] New Request!"
 labels: ''
 assignees: ''
 type: Feature

@@ -8,6 +8,7 @@ type: Bug
 
 ---
 
+### **It is highly recommended to provide a log!**
 # 1. Describe the bug.
 Describe the circumstances under which the bug occurs. For example: "The game crashes when entering the graphics settings menu."
 # 2. Error code, launcher, and any additional files downloaded for the modpack.
